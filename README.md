@@ -11,16 +11,16 @@ II. Lập kế hoạch dự án (SCHEDULE.md)
    * Tên đề tài: Silent Voice
 
    * Thành viên / thông tin liên hệ:
-     1 Lê Quốc Cường 
-      email: lequoccuong2204@gmail.com
-      sđt: 0867976049
-     2 Mai Thị Mỹ Duyên
-     email: myduyen3706@gmail.com 
-     sđt: 0939338713 
-     3 Bùi Thị Thanh Hằng
-     email: thanhhang250305@gmail.com
-      sđt: 0386601904
-     4 Danh Nguyễn Thanh Hưng
+    1 Lê Quốc Cường 
+        email: lequoccuong2204@gmail.com
+        sđt: 0867976049
+    2 Mai Thị Mỹ Duyên
+        email: myduyen3706@gmail.com 
+        sđt: 0939338713 
+    3 Bùi Thị Thanh Hằng
+        email: thanhhang250305@gmail.com
+        sđt: 0386601904
+    4 Danh Nguyễn Thanh Hưng
 
 
    * Kế hoạch dự kiến

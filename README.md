@@ -25,32 +25,32 @@ II. Lập kế hoạch dự án (SCHEDULE.md)
 
    * Kế hoạch dự kiến
 	Tuần 1: Xác định đề tài và phân công công việc
-Thảo luận và thống nhất về đề tài dự án.
-Xác định mục tiêu, phạm vi và yêu cầu hệ thống.
-Phân công công việc cho từng thành viên.
-Tuần 2: Thu thập dữ liệu và xây dựng cơ sở dữ liệu
-Thu thập bộ dữ liệu hình ảnh về các ký hiệu ngôn ngữ ký hiệu.
-Tiền xử lý dữ liệu: làm sạch, chuẩn hóa, gán nhãn.
-Thiết kế và triển khai cơ sở dữ liệu để lưu trữ thông tin nhận diện.
-Tuần 3: Nghiên cứu tài liệu và chọn mô hình AI
-Nghiên cứu các mô hình học sâu phổ biến để nhận diện ngôn ngữ ký hiệu (CNN, RNN, Transformer, MediaPipe, v.v.).
-Đánh giá ưu nhược điểm của từng mô hình.
-Chọn mô hình phù hợp nhất cho bài toán.
-Tuần 4: Xây dựng mô hình nhận diện ký hiệu
-Triển khai mô hình AI đã chọn.
-Huấn luyện mô hình trên tập dữ liệu thu thập được.
-Kiểm tra và tinh chỉnh mô hình để tối ưu độ chính xác.
-Tuần 5: Xây dựng giao diện ứng .
-Phát triển giao diện hiển thị văn bản hoặc phát giọng nói.
-Tích hợp mô hình AI vào ứng dụng.
-Tuần 6: Kiểm thử và cải thiện hệ thống
-Kiểm thử hệ thống với dữ liệu thực tế.
-Sửa lỗi và tối ưu hiệu suất mô hình.
-Cải thiện giao diện và trải nghiệm người dùng.
-Tuần 7: Hoàn thiện và báo cáo
-Tổng hợp kết quả và viết báo cáo.
-Chuẩn bị tài liệu hướng dẫn sử dụng.
-Thực hiện bài thuyết trình và demo sản phẩm
+	Thảo luận và thống nhất về đề tài dự án.
+	Xác định mục tiêu, phạm vi và yêu cầu hệ thống.
+	Phân công công việc cho từng thành viên.
+	Tuần 2: Thu thập dữ liệu và xây dựng cơ sở dữ liệu
+	Thu thập bộ dữ liệu hình ảnh về các ký hiệu ngôn ngữ ký hiệu.
+	Tiền xử lý dữ liệu: làm sạch, chuẩn hóa, gán nhãn.
+	Thiết kế và triển khai cơ sở dữ liệu để lưu trữ thông tin nhận diện.
+	Tuần 3: Nghiên cứu tài liệu và chọn mô hình AI
+	Nghiên cứu các mô hình học sâu phổ biến để nhận diện ngôn ngữ ký hiệu (CNN, RNN, Transformer, MediaPipe, v.v.).
+	Đánh giá ưu nhược điểm của từng mô hình.
+	Chọn mô hình phù hợp nhất cho bài toán.
+	Tuần 4: Xây dựng mô hình nhận diện ký hiệu
+	Triển khai mô hình AI đã chọn.
+	Huấn luyện mô hình trên tập dữ liệu thu thập được.
+	Kiểm tra và tinh chỉnh mô hình để tối ưu độ chính xác.
+	Tuần 5: Xây dựng giao diện ứng .
+	Phát triển giao diện hiển thị văn bản hoặc phát giọng nói.
+	Tích hợp mô hình AI vào ứng dụng.
+	Tuần 6: Kiểm thử và cải thiện hệ thống
+	Kiểm thử hệ thống với dữ liệu thực tế.
+	Sửa lỗi và tối ưu hiệu suất mô hình.
+	Cải thiện giao diện và trải nghiệm người dùng.
+	Tuần 7: Hoàn thiện và báo cáo
+	Tổng hợp kết quả và viết báo cáo.
+	Chuẩn bị tài liệu hướng dẫn sử dụng.
+	Thực hiện bài thuyết trình và demo sản phẩm
 
    * Liên kết:https://docs.google.com/spreadsheets/d/1oJuMU_s_opss0tOWek7o-G2LWVZsbmbqyuyPf90M-K8/edit?gid=0#gid=0
    * Tổ chức công việc nhóm

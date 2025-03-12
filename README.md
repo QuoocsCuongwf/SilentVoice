@@ -52,7 +52,7 @@ Tổng hợp kết quả và viết báo cáo.
 Chuẩn bị tài liệu hướng dẫn sử dụng.
 Thực hiện bài thuyết trình và demo sản phẩm
 
-   * Liên kết:schedule
+   * Liên kết:https://docs.google.com/spreadsheets/d/1oJuMU_s_opss0tOWek7o-G2LWVZsbmbqyuyPf90M-K8/edit?gid=0#gid=0
    * Tổ chức công việc nhóm
 
 + Tất cả thành viên đều phải commit tham gia
